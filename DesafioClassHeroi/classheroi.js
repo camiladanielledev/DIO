@@ -16,6 +16,8 @@ else if (xp >=10001) {nível = ("Radiante")}
 
 console.log("O Herói de nome" ,Heroi ,"está no nível de",nível);
 
+ 
+
 
 
 
