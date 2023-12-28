@@ -5,7 +5,7 @@ class Hero{
     this.tipo = tipo ["mago","guerreiro","monge","ninja "]
   }
 }
-let arma = "mago"
+let arma = "magia"
   if (tipo="mago"){"magia"}
   else if (tipo="guerreiro") {"espada"}
   else if (tipo = "monge"){"artes marciais"}
