@@ -1,0 +1,18 @@
+class Hero{
+  constructor(nome,idade,tipo){
+    this.nome = nome
+    this.idade = idade
+    this.tipo = tipo ["mago","guerreiro","monge","ninja "]
+  }
+}
+let arma = "magia"
+  if (tipo="mago"){"magia"}
+  else if (tipo="guerreiro") {"espada"}
+  else if (tipo = "monge"){"artes marciais"}
+  else {"shuriken"}
+    
+  
+function atacar () {
+  console.log(`O ${tipo}atacou usando${arma}`);
+}
+console.log(`O ${tipo} atacou usando ${arma}`)
